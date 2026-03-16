@@ -34,7 +34,7 @@ fun lista() {
                     println("Produto removido ${lista.remove(removerProduto)}")
                 }
 
-            }1
+            }
             "3" -> {
                 println("Digite o produto que deseja alterar o valor")
                 var produtoAlterar = readln()
